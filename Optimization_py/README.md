@@ -151,51 +151,51 @@
 
 ## Overview
 
-This curriculum is designed to guide me through the fundamentals and advanced topics in optimization over a two-week period. I'll explore core concepts through videos, exercises, and recommended readings.
+This curriculum is designed to guide you through the fundamentals and advanced topics in optimization over a two-week period. You'll explore core concepts through videos, exercises, and recommended readings.
 
 ## Week 1: Foundations of Optimization
 
 ### Day 1: Introduction to Optimization
 
 - **Topics**: Definition of Optimization, Decision Variables, Objective Functions, Constraints
-- **Video**: [Introduction to Optimization - YouTube](https://www.youtube.com/watch?v=FKjYGr4tt0M)
-- **Readings**: [Chapter 1 - Introduction to Operations Research (PDF)](http://web.mit.edu/15.053/www/AMP/ch1.pdf)
+- **Video**: [Introduction to Optimization - YouTube](https://www.youtube.com/watch?v=XuX0S1NHzcU)
+- **Readings**: [Chapter 1 - Introduction to Operations Research](https://www.mit.edu/~15.053/)
 
 ### Day 2: Linear Programming (LP)
 
 - **Topics**: Formulating LP Problems, Feasible Regions, Graphical Method
-- **Video**: [Linear Programming - YouTube](https://www.youtube.com/watch?v=3OEqB79vOe4)
-- **Readings**: [Chapter 2 - Introduction to Operations Research (PDF)](http://web.mit.edu/15.053/www/AMP/ch2.pdf)
+- **Video**: [Linear Programming - YouTube](https://www.youtube.com/watch?v=1gH5E8gC8K8)
+- **Readings**: [Operations Research by Taha - Overview of LP](http://www.math.utah.edu/~beaty/m2910/linprog.pdf)
 
 ### Day 3: The Simplex Method
 
 - **Topics**: Simplex Algorithm, Pivoting, Optimality Conditions
-- **Video**: [Simplex Method - YouTube](https://www.youtube.com/watch?v=wo6YwFzUnSI)
-- **Readings**: [Chapter 3 - Operations Research (PDF)](http://web.mit.edu/15.053/www/AMP/ch3.pdf)
+- **Video**: [Simplex Method - YouTube](https://www.youtube.com/watch?v=RAbz4JNQJ6M)
+- **Readings**: [Duality and the Simplex Method - PDF](https://www.math.ucsd.edu/~bjd/18-6.pdf)
 
 ### Day 4: Duality in Linear Programming
 
 - **Topics**: Primal-Dual Relationships, Sensitivity Analysis
-- **Video**: [Duality in Linear Programming - YouTube](https://www.youtube.com/watch?v=YjMtyFWEA9M)
-- **Readings**: [Chapter 4 - Operations Research (PDF)](http://web.mit.edu/15.053/www/AMP/ch4.pdf)
+- **Video**: [Duality in Linear Programming - YouTube](https://www.youtube.com/watch?v=YzqT1H1NmuQ)
+- **Readings**: [Linear Programming: Duality Concepts](https://people.math.sc.edu/ ~wiegold/duality.pdf)
 
 ### Day 5: Nonlinear Programming Basics
 
 - **Topics**: Introduction to Nonlinear Optimization, Convexity, Goals
-- **Video**: [Nonlinear Programming - YouTube](https://www.youtube.com/watch?v=KoJNL8w1hK8)
-- **Readings**: [Convex Optimization - Full Text by Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/)
+- **Video**: [Nonlinear Programming - YouTube](https://www.youtube.com/watch?v=7n3MSw6SKuA)
+- **Readings**: [Convex Optimization - Full Text (Boyd)](https://web.stanford.edu/~boyd/cvxbook/)
 
 ### Day 6: Gradient and Hessian
 
 - **Topics**: Gradient Descent, Hessian Matrix, First and Second Order Conditions
-- **Video**: [Gradient Descent Explained - YouTube](https://www.youtube.com/watch?v=IJ4fU8cB7Q0)
-- **Readings**: [Convex Optimization - Full Text by Boyd and Vandenberghe (Chapters)](https://web.stanford.edu/~boyd/cvxbook/)
+- **Video**: [Gradient Descent Explained - YouTube](https://www.youtube.com/watch?v=IWG7-3lEl4g)
+- **Readings**: [Understanding the Gradient and Hessian](https://www.math.uwaterloo.ca/~hwolkowi/opt/grad-lap.pdf)
 
 ### Day 7: KKT Conditions
 
 - **Topics**: Karush-Kuhn-Tucker Conditions, Applications
-- **Video**: [KKT Conditions - YouTube](https://www.youtube.com/watch?v=IyqVhNrYz8M)
-- **Readings**: [KKT Conditions Explanation (PDF)](https://optimization.massey.ac.nz/Teaching/Optimization2019/KKT.pdf)
+- **Video**: [KKT Conditions - YouTube](https://www.youtube.com/watch?v=flJuK-Y5qLo)
+- **Readings**: [KKT Conditions Overview](https://web.mit.edu/15.053/www/AMP/ch8.pdf)
 
 ---
 
@@ -204,44 +204,44 @@ This curriculum is designed to guide me through the fundamentals and advanced to
 ### Day 8: Discrete and Combinatorial Optimization
 
 - **Topics**: Integer Programming, Combinatorial Problems like TSP
-- **Video**: [Discrete Optimization - YouTube](https://www.youtube.com/watch?v=Vt9MWLr1NGs)
-- **Readings**: [Introduction to Combinatorial Optimization (PDF)](http://users.wpi.edu/~dmcgough/TSP-Notes.pdf)
+- **Video**: [Combinatorial Optimization - YouTube](https://www.youtube.com/watch?v=meYlJv5IgN4)
+- **Readings**: [Introduction to Combinatorial Optimization](https://web.wpi.edu/~cs585/lectures/lecture01.pdf)
 
 ### Day 9: Dynamic Programming
 
 - **Topics**: Principles of Optimality, Applications in Optimization
-- **Video**: [Dynamic Programming - YouTube](https://www.youtube.com/watch?v=oP3cWg4DWkQ)
-- **Readings**: [Dynamic Programming (MIT OpenCourseWare)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-in-python-in-the-spring-2016/)
+- **Video**: [Dynamic Programming - YouTube](https://www.youtube.com/watch?v=9n2J2q9eGg0)
+- **Readings**: [Dynamic Programming - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-in-python-in-the-spring-2016/)
 
 ### Day 10: Metaheuristics
 
 - **Topics**: Genetic Algorithms, Simulated Annealing, Local Search
-- **Video**: [Metaheuristics Explained - YouTube](https://www.youtube.com/watch?v=gT77xUVi3uY)
-- **Readings**: [Introduction to Metaheuristics (PDF)](https://iridia.ulb.ac.be/~mdg/teaching/CO/MH.pdf)
+- **Video**: [Introduction to Metaheuristics - YouTube](https://www.youtube.com/watch?v=OM2cL8WBBdM)
+- **Readings**: [Metaheuristics and Applications](https://link.springer.com/chapter/10.1007/978-3-319-78813-8_23)
 
 ### Day 11: Introduction to Pyomo
 
 - **Topics**: Setting up Pyomo, Formulating Problems, Solving Models
-- **Video**: [Getting Started with Pyomo - YouTube](https://www.youtube.com/watch?v=qpss-GLB5_g)
+- **Video**: [Getting Started with Pyomo - YouTube](https://www.youtube.com/watch?v=E8S7FnRAl-s)
 - **Readings**: [Pyomo Documentation](https://pyomo.readthedocs.io/en/stable/)
 
 ### Day 12: Case Studies in Optimization
 
 - **Topics**: Real-World Applications, Case Studies, Problem-Solving
-- **Video**: [Case Studies in Optimization - YouTube](https://www.youtube.com/watch?v=4gGJ6rW7E4Y)
-- **Readings**: [Real-World Applications of Optimization (PDF)](https://www.math.uwaterloo.ca/~hwolkowi//opt/CaseStudies.pdf)
+- **Video**: [Case Studies in Optimization - YouTube](https://www.youtube.com/watch?v=59L84Ws8FzA)
+- **Readings**: [Case Studies in Operations Research](https://www.informs.org/ORMS-Today/Publications/OR-MS-Today/Articles/Case-Study)
 
 ### Day 13: Advanced Solver Techniques
 
 - **Topics**: Advanced Topics in Solvers, Sensitivity & Robustness
-- **Video**: [Advanced Solver Techniques - YouTube](https://www.youtube.com/watch?v=t1X3eU52FAs)
-- **Readings**: [Operational Research Textbook (PDF)](https://ieeexplore.ieee.org/document/4387663)
+- **Video**: [Advanced Optimization Techniques - YouTube](https://www.youtube.com/watch?v=7zAFp8TYxxo)
+- **Readings**: [Advanced Topics in Optimization (PDF)](https://www.cs.cornell.edu/home/kleinber/678/notes/sensitivity.pdf)
 
 ### Day 14: Review and Practical Application
 
 - **Activities**: Review key concepts, solve sample problems, work on a mini-project using Pyomo.
-- **Video**: [Optimization Review - YouTube](https://www.youtube.com/watch?v=5Zkr57Vk0pI)
-- **Final Reading**: [Optimization in Python with Pyomo](https://realpython.com/linear-programming-in-python/)
+- **Video**: [Optimization Review - YouTube](https://www.youtube.com/watch?v=l0Or53kuYpg)
+- **Final Reading**: [Optimization in Python with Pyomo - Real Python](https://realpython.com/linear-programming-in-python/)
 
 ---
 
